@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urshanedi.github.io/sitemap
+Sitemap: https://urshanedi.github.io/app/sitemap
+Sitemap: https://urshanedi.github.io/assets/sitemap
+Sitemap: https://urshanedi.github.io/css/sitemap
+Sitemap: https://urshanedi.github.io/includes/sitemap
+Sitemap: https://urshanedi.github.io/item/sitemap
+Sitemap: https://urshanedi.github.io/src/sitemap
